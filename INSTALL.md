@@ -1,3 +1,4 @@
+```
 sudo apt-get update
 sudo apt-get install -y gcc
 sudo apt-get install -y make
@@ -8,7 +9,7 @@ sudo apt-get install -y libncursesw5-dev
 sudo apt-get install -y liblzma-dev
 pip3 install matplotlib
 
-**create and activate conda env**  
+# create and activate conda env
 conda create --name env1
 conda activate env1
 
@@ -48,6 +49,6 @@ wget https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos1/sra-pub-run-5/SRR961514/S
 # extract forward and reverse from MiSeq data set
 fastq-dump --split-files SRR961514.1
 # Result: forward: SRR961514.1_1.fastq, reverse: SRR961514.1_2.fastq 
-
+```
 
 
