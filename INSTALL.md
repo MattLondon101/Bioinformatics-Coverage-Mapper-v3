@@ -8,7 +8,7 @@ sudo apt-get install -y libncursesw5-dev
 sudo apt-get install -y liblzma-dev
 pip3 install matplotlib
 
-# create and activate conda env
+** create and activate conda env **
 conda create --name env1
 conda activate env1
 
