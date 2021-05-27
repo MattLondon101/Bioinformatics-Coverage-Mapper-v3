@@ -10,3 +10,5 @@ See INSTALL.md for instructions for SRA Toolkit to separate forward and reverse 
 
 Please refer to comments in coverage.py for details of pipeline.
 
+
+Updated 5/7/21
